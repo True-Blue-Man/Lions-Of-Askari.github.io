@@ -1,0 +1,14 @@
+Home page
+-- Nav bar
+---- Home, Teams (drop-down with team list), Blog, Contact
+-- Other content like blog posts, updates, etc
+
+Team page
+--  Logo, name, etc
+-- Plans, price, etc
+-- Different devs in the team
+-- Way to buy (not sure  on this yet)
+-- Completed Projects
+
+Contact
+-- Contact form
